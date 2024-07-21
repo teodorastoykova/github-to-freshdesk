@@ -1,0 +1,6 @@
+mariadb
+python-dotenv
+requests
+PyGithub
+pytest
+pydantic
